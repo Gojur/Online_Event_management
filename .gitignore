@@ -4,6 +4,8 @@ backend/node_modules/
 # Environment variables
 backend/.env
 
+documentation/Online_Event_Registration_Management_System_Documentation.docx
+screenshots/
 # System files
 .DS_Store
 Thumbs.db
