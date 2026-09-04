@@ -381,7 +381,7 @@ The project provides practical experience in full-stack development, database in
 
 ## Author
 
-**Testuser**
+**Gojuru Meghana**
 
 ### Internship Mini Project
 
